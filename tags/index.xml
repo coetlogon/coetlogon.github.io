@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on coetlogon.github.io</title>
+    <link>https://coetlogon.github.io/tags/</link>
+    <description>Recent content in Tags on coetlogon.github.io</description>
+    <image>
+      <url>https://coetlogon.github.io/papermod-cover.png</url>
+      <link>https://coetlogon.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://coetlogon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technicien Informatique</title>
+      <link>https://coetlogon.github.io/tags/technicien-informatique/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://coetlogon.github.io/tags/technicien-informatique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chargé de mission Sécurité et Administration</title>
+      <link>https://coetlogon.github.io/tags/charg%C3%A9-de-mission-s%C3%A9curit%C3%A9-et-administration/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://coetlogon.github.io/tags/charg%C3%A9-de-mission-s%C3%A9curit%C3%A9-et-administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsable Tests et Recettes</title>
+      <link>https://coetlogon.github.io/tags/responsable-tests-et-recettes/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://coetlogon.github.io/tags/responsable-tests-et-recettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technicien Maintenance Informatique</title>
+      <link>https://coetlogon.github.io/tags/technicien-maintenance-informatique/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://coetlogon.github.io/tags/technicien-maintenance-informatique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
